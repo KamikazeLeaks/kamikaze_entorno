@@ -63,7 +63,7 @@ function sendDiscord(name, message)
             ["title"] = "**".. name .."**",
             ["description"] = message,
             ["footer"] = {
-                ["text"] = "Comando de /entorno simple | Creado por Arturo",
+                ["text"] = "Comando de /entorno",
             },
         }
     }
